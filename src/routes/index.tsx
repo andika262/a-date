@@ -37,7 +37,7 @@ const plans = [
     day: "01",
     storageKey: "02",
     date: "Sabtu, 3 Oktober",
-    subtitle: "Hari paling penuh—semoga juga jadi hari yang paling kita ingat.",
+    subtitle: "Hari paling penuh semoga juga jadi hari yang paling kita ingat.",
     items: [
       { time: "Pagi", title: "Jalan-jalan di Kota Bandung", description: "Mulai dari Jalan Asia Afrika, lalu menikmati sudut-sudut kota sambil berjalan beriringan dan mengumpulkan foto kecil tentang kita.", query: "Jalan Asia Afrika Bandung", image: kelilingImage, imageAlt: "Suasana jalan-jalan di Kota Bandung" },
       { time: "Sore", title: "Ke Tempat Secret", description: "Satu tempat spesial yang sengaja kurahasiakan cukup ikut denganku dan siapkan senyum terbaikmu.", image: secretImage, imageAlt: "Tempat kejutan yang masih dirahasiakan", secret: true },
